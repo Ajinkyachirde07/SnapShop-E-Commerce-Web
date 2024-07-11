@@ -8,6 +8,9 @@
 
 SnapShop is an impressive e-commerce website built with React.JS and Tailwind. It allows users to browse through various products and make purchases. The project's code is licensed under the MIT License, providing flexibility for usage and distribution.
 
+
+LIVE PROJECT LINK : https://snapshop-ecommerce-web.netlify.app/ 
+
 ## Tech Stack
 
 Snapshop is developed using the following technologies:
