@@ -1,4 +1,4 @@
-<img src='https://github.com/LeeBingler/ReactShop/assets/98109693/7f507a9b-7356-42f6-a1e2-98f2ae02514c' alt='SnapShop' width='100%' height='200px'/>
+
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ![Static Badge](https://img.shields.io/badge/Dependencies-NPM-black)
