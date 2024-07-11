@@ -2,7 +2,7 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 ![Static Badge](https://img.shields.io/badge/Dependencies-NPM-black)
-![GitHub repo size](https://img.shields.io/github/repo-size/LeeBingler/ReactShop)
+
 
 # SnapShop - An E-commerce Website
 
