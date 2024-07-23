@@ -29,30 +29,8 @@ To enhance the development process and user experience, the following frameworks
 
 ## Testing Library
 
-SnapShop uses the "Vitest" testing library to ensure the stability and correctness of the codebase. Automated testing is crucial for maintaining a reliable application.
+SnapShop Project uses the "Vitest" testing library to ensure the stability and correctness of the codebase. Automated testing is crucial for maintaining a reliable application.
 
-
-
-## Build/Run and Deployment
-
-To set up the project locally, you need Node.js and NPM installed on your machine.
-
-### Website:
-
-To run the website, follow these steps:
-1. Clone the repository and navigate to the project folder.
-2. Install the project dependencies using `npm install`.
-3. Run the web application using `npm run dev`.
-4. Run tests with `npm run test`.
-
-For deployment, execute `npm run build`. The generated build files can then be hosted on a web server or a platform like Netlify for public access.
-
-### Server:
-
-To run the server, follow these steps:
-1. Clone the repository and navigate to the project folder.
-2. Install the project dependencies using `npm run build:server`.
-3. Run the web application using `npm run start:server`.
 
 
 ## Copyright and License
